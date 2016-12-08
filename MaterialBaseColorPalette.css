@@ -1,0 +1,104 @@
+.red {
+    background: #F44336;
+    color: white;
+}
+
+.pink {
+    background: #E91E63;
+    color: white;
+}
+
+.purple {
+    background: #9C27B0;
+    color: white;
+}
+
+.deep-purple {
+    background: #673AB7;
+    color: white;
+}
+
+.indigo {
+    background: #3F51B5;
+    color: white;
+}
+
+.blue {
+    background: #2196F3;
+    color: white;
+}
+
+.light-blue {
+    background: #03A9F4;
+    color: black;
+}
+
+.cyan {
+    background: #00BCD4;
+    color: black;
+}
+
+.teal {
+    background: #009688;
+    color: white;
+}
+
+.green {
+    background: #4CAF50;
+    color: black;
+}
+
+.light-green {
+    background: #8BC34A;
+    color: black;
+}
+
+.lime {
+    background: #CDDC39;
+    color: black;
+}
+
+.yellow {
+    background: #FFEB3B;
+    color: black;
+}
+
+.amber {
+    background: #FFC107;
+    color: black;
+}
+
+.orange {
+    background: #FF9800;
+    color: black;
+}
+
+.deep-orange {
+    background: #FF5722;
+    color: white;
+}
+
+.brown {
+    background: #795548;
+    color: white;
+}
+
+.grey {
+    background: #9E9E9E;
+    color: black;
+}
+
+.blue-grey {
+    background: #607D8B;
+    color: white;
+}
+
+.black {
+    background: #000000;
+    color: white;
+}
+
+.white {
+    background: #FFFFFF;
+    color: black;
+}
