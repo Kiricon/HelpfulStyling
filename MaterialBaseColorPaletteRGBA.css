@@ -1,0 +1,104 @@
+.red {
+    background: rgba(244, 67, 54, 1);
+    color: white;
+}
+
+.pink {
+    background: rgba(233, 30, 99, 1);
+    color: white;
+}
+
+.purple {
+    background: rgba(156, 39, 176, 1);
+    color: white;
+}
+
+.deep-purple {
+    background: rgba(103, 58, 183, 1);
+    color: white;
+}
+
+.indigo {
+    background: rgba(63, 81, 181, 1);
+    color: white;
+}
+
+.blue {
+    background: rgba(33, 150, 243, 1);
+    color: white;
+}
+
+.light-blue {
+    background: rgba(3, 169, 244, 1);
+    color: black;
+}
+
+.cyan {
+    background: rgba(0, 188, 212, 1);
+    color: black;
+}
+
+.teal {
+    background: rgba(0, 150, 136, 1);
+    color: white;
+}
+
+.green {
+    background: rgba(76, 175, 80, 1);
+    color: white;
+}
+
+.light-green {
+    background: rgba(139, 195, 74, 1);
+    color: black;
+}
+
+.lime {
+    background: rgba(205, 220, 57, 1);
+    color: black;
+}
+
+.yellow {
+    background: rgba(255, 235, 59, 1);
+    color: black;
+}
+
+.amber {
+    background: rgba(255, 193, 7, 1);
+    color: black;
+}
+
+.orange {
+    background: rgba(255, 152, 0, 1);
+    color: black;
+}
+
+.deep-orange {
+    background: rgba(255, 87, 34, 1);
+    color: white;
+}
+
+.brown {
+    background: rgba(121, 85, 72, 1);
+    color: white;
+}
+
+.grey {
+    background: rgba(158, 158, 158, 1);
+    color: black;
+}
+
+.blue-grey {
+    background: rgba(96, 125, 139, 1);
+    color: white;
+}
+
+.black {
+    background: rgba(0, 0, 0, 1);
+    color: white;
+}
+
+.white {
+    background: rgba(255, 255, 255, 1);
+    color: black;
+}
